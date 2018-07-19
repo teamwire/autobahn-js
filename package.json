@@ -15,7 +15,7 @@
         "int64-buffer": ">= 0.1.9"
     },
     "optionalDependencies": {
-        "bufferutil": ">= 1.2.1",
+        "bufferutil": "3.0.5",
         "utf-8-validate": ">= 1.2.1"
     },
     "devDependencies": {
